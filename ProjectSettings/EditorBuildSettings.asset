@@ -1,0 +1,47 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 0
+    path: 
+    guid: 00000000000000000000000000000000
+  - enabled: 1
+    path: Assets/Scenes/BowlingScMenu.unity
+    guid: 8a0dcf8d937ad4d439764507d6ddf221
+  - enabled: 0
+    path: Assets/Scenes/MenuDevice.unity
+    guid: 53c4ba1714f2bfc44acf3f8bfc03bd21
+  - enabled: 0
+    path: Assets/Scenes/Menu.unity
+    guid: 450a2ebd4d932e14ead0a079ea050856
+  - enabled: 0
+    path: Assets/Scenes/Bowling1B.unity
+    guid: 1569a6e90bfb92449bb674d26c74d5b6
+  - enabled: 0
+    path: Assets/Scenes/Bowling1.unity
+    guid: 13472c9d25f3d324785981d5afa5bf81
+  - enabled: 0
+    path: Assets/Scenes/Bowling1fnctest.unity
+    guid: 98b0b9bab6e22c24a9c2169a9db6789e
+  - enabled: 1
+    path: Assets/Scenes/Bowling1fnc2.unity
+    guid: b2d928b6df2c5d141b642ebba2a80663
+  - enabled: 0
+    path: Assets/Scenes/Bowling1Fnc.unity
+    guid: 9581b07742e6f704d9636533726bfb20
+  - enabled: 0
+    path: Assets/Scenes/Bowling1Action.unity
+    guid: 812cb9746e7f74547aeee38b047d267c
+  - enabled: 1
+    path: Assets/Scenes/BowlingScHighMenu.unity
+    guid: e999fa0a4b95513459486ac23babbff5
+  - enabled: 1
+    path: Assets/Scenes/BowlingScTop.unity
+    guid: 4a1c68deefb6ebc4b9bb2210e7093d71
+  m_configObjects:
+    Unity.XR.Oculus.Settings: {fileID: 11400000, guid: 882c2b88cf878374686ef8ba6f85f5ec, type: 2}
+    com.unity.xr.management.loader_settings: {fileID: 11400000, guid: 91baf61b55ffd17469f14f67a42e512c, type: 2}
+    xr.sdk.mock-hmd.settings: {fileID: 11400000, guid: 41e8e0c3bf84ab048ae4a63384c68d1a, type: 2}
